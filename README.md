@@ -1,4 +1,4 @@
-# Sahil Mokashi — Portfolio
+# Sahil Mokashi - Portfolio
 
 Personal portfolio for a Data Engineer based in Dublin, Ireland.
 
